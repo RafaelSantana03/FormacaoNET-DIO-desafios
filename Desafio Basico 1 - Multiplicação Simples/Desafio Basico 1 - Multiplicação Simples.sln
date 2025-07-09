@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Basico 1 - Multiplicação Simples", "Desafio Basico 1 - Multiplicação Simples.csproj", "{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Basico 2 - Pink e Cérebro", "..\Desafio Basico 2 - Pink e Cérebro\Desafio Basico 2 - Pink e Cérebro.csproj", "{E301B7DA-9B87-4B32-875B-FE977B3D70FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Basico 3 - Esferas", "..\Desafio Basico 3 - Esferas\Desafio Basico 3 - Esferas.csproj", "{F069B8CB-91E6-4357-AF1A-9F735307A54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E301B7DA-9B87-4B32-875B-FE977B3D70FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E301B7DA-9B87-4B32-875B-FE977B3D70FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E301B7DA-9B87-4B32-875B-FE977B3D70FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E301B7DA-9B87-4B32-875B-FE977B3D70FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F069B8CB-91E6-4357-AF1A-9F735307A54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F069B8CB-91E6-4357-AF1A-9F735307A54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F069B8CB-91E6-4357-AF1A-9F735307A54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F069B8CB-91E6-4357-AF1A-9F735307A54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

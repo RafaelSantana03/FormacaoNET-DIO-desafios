@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio Basico 1 - Multiplicação Simples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d89401e09a8c8ff0af02aeb401c9e45e43388ff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio Basico 1 - Multiplicação Simples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio Basico 1 - Multiplicação Simples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

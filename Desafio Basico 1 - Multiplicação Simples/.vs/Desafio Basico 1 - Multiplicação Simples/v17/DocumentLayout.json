@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 1 - Multiplica\u00E7\u00E3o Simples\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F069B8CB-91E6-4357-AF1A-9F735307A54F}|..\\Desafio Basico 3 - Esferas\\Desafio Basico 3 - Esferas.csproj|a:\\forma\u00E7\u00E3onet_dio\\desafio basico 3 - esferas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301B7DA-9B87-4B32-875B-FE977B3D70FB}|..\\Desafio Basico 2 - Pink e C\u00E9rebro\\Desafio Basico 2 - Pink e C\u00E9rebro.csproj|a:\\forma\u00E7\u00E3onet_dio\\desafio basico 2 - pink e c\u00E9rebro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}|Desafio Basico 1 - Multiplica\u00E7\u00E3o Simples.csproj|a:\\forma\u00E7\u00E3onet_dio\\desafio basico 1 - multiplica\u00E7\u00E3o simples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E7F0CCD-1ADD-4283-AC60-FCEBD66A72C8}|Desafio Basico 1 - Multiplica\u00E7\u00E3o Simples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,15 +20,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 3 - Esferas\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Desafio Basico 3 - Esferas\\Program.cs",
+              "ToolTip": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 3 - Esferas\\Program.cs",
+              "RelativeToolTip": "..\\Desafio Basico 3 - Esferas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:34:16.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 2 - Pink e C\u00E9rebro\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Desafio Basico 2 - Pink e C\u00E9rebro\\Program.cs",
+              "ToolTip": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 2 - Pink e C\u00E9rebro\\Program.cs",
+              "RelativeToolTip": "..\\Desafio Basico 2 - Pink e C\u00E9rebro\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:04:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\Forma\u00E7\u00E3oNET_DIO\\Desafio Basico 1 - Multiplica\u00E7\u00E3o Simples\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

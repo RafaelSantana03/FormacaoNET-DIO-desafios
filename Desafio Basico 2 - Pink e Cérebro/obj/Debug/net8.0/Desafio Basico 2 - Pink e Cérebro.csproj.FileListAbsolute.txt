@@ -1,0 +1,15 @@
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.GeneratedMSBuildEditorConfig.editorconfig
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.AssemblyInfoInputs.cache
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.AssemblyInfo.cs
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.csproj.CoreCompileInputs.cache
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.sourcelink.json
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\bin\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.exe
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\bin\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.deps.json
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\bin\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.runtimeconfig.json
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\bin\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.dll
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\bin\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.pdb
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.dll
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\refint\Desafio Basico 2 - Pink e Cérebro.dll
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.pdb
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\Desafio Basico 2 - Pink e Cérebro.genruntimeconfig.cache
+A:\FormaçãoNET_DIO\Desafio Basico 2 - Pink e Cérebro\obj\Debug\net8.0\ref\Desafio Basico 2 - Pink e Cérebro.dll

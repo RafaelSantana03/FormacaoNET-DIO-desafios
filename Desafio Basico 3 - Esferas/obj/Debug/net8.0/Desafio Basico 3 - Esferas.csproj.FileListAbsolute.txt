@@ -1,0 +1,15 @@
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\bin\Debug\net8.0\Desafio Basico 3 - Esferas.exe
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\bin\Debug\net8.0\Desafio Basico 3 - Esferas.deps.json
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\bin\Debug\net8.0\Desafio Basico 3 - Esferas.runtimeconfig.json
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\bin\Debug\net8.0\Desafio Basico 3 - Esferas.dll
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\bin\Debug\net8.0\Desafio Basico 3 - Esferas.pdb
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.GeneratedMSBuildEditorConfig.editorconfig
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.AssemblyInfoInputs.cache
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.AssemblyInfo.cs
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.csproj.CoreCompileInputs.cache
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.sourcelink.json
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.dll
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\refint\Desafio Basico 3 - Esferas.dll
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.pdb
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\Desafio Basico 3 - Esferas.genruntimeconfig.cache
+A:\FormaçãoNET_DIO\Desafio Basico 3 - Esferas\obj\Debug\net8.0\ref\Desafio Basico 3 - Esferas.dll
